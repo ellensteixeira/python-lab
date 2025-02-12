@@ -7,8 +7,8 @@ Neste repositório está todo o meu aprendizado, anotações, exercícios e test
 
 ### Caso você queira rodar algum projeto na sua máquina, siga os próximos passos:
 
-1. Clonar o repósitorio.
+1. Clone o repósitorio.
 2. Descompacte o arquivo.
-3. Abra o arquivo no Visual Studio Code ou em alguma IDE de sua preferência (e que aceite a linguagem Python).
+3. Abra o arquivo no Visual Studio Code, IntelliJ ou em alguma IDE de sua preferência.
 4. No respectivo arquivo do código, clique em "Run" para que o código seja compilado na sua máquina.
-5. OBS: Caso você não tenha o Python na sua máquina, será necessário instalar o mesmo.
+OBS: Caso você não tenha o Python na sua máquina, será necessário instalar o mesmo.
